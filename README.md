@@ -108,6 +108,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
 - [Tools](https://tools.so/) - Growing directory of the best AI tools on the internet. 
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
+- [Theaihunter](https://www.theaihunter.com/) - Discover Top AI Tools & Software
+
 
 # Add Yours
 
